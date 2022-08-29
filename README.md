@@ -1,5 +1,7 @@
 # Static-ACN-Data
-This is a static version of ACN-Data (https://ev.caltech.edu/dataset), collected from three sites from 2018 to 2020.
+This is a static version of ACN-Data (https://ev.caltech.edu/dataset), collected from 2018 to 2020.
+
+The dataset contains EV charging time series data collected from various sites at Caltech, JPL, and nearby offices. Each site folder contains csv files sorted by dates when the data has been collected. More pre-processing toolkits, packages, and polished datasets will be released soon.
 
 # Useful Tools:
 
