@@ -6,11 +6,11 @@ The dataset contains EV charging time series data collected from various sites a
 
 # Useful Tools:
 
-## GMM for ACN-Data: https://github.com/tongxin-li/GMM-for-ACN-Data
+#### GMM for ACN-Data: https://github.com/tongxin-li/GMM-for-ACN-Data
 
-## Gym Environment: https://github.com/tongxin-li/gym-EV
+#### Gym Environment: https://github.com/tongxin-li/gym-EV
 
-## Citing the Dataset##
+# Citing the Dataset
 
 If you use ACN-Data in published work, we ask that you cite ACN-Data: Analysis and Applications of an Open EV Charging Dataset so others can find and use the dataset as well.
 
