@@ -1,4 +1,4 @@
-# Static-ACN-Data
+# ACN-Data (Static)
 
 This is a static version of ACN-Data (https://ev.caltech.edu/dataset), collected from 2018 to 2020.
 
