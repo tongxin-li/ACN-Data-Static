@@ -14,8 +14,7 @@ The dataset contains EV charging time series data collected from various sites a
 
 If you use ACN-Data in published work, we ask that you cite ACN-Data: Analysis and Applications of an Open EV Charging Dataset so others can find and use the dataset as well.
 
-<p>
-@inproceedings{lee_acndata_2019,
+> @inproceedings{lee_acndata_2019,
   author = {Lee, Zachary J. and Li, Tongxin, and Low, Steven H.},
   title = { {ACN}-{Data}: {Analysis} and {Applications} of an {Open} {EV} {Charging} {Dataset} },
   booktitle = {Proceedings of the Tenth International Conference on Future Energy Systems},
@@ -23,4 +22,4 @@ If you use ACN-Data in published work, we ask that you cite ACN-Data: Analysis a
   month = jun,
   year = {2019},
   location = {Phoenix, Arizona}
-}</p>
+}
