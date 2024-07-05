@@ -4,6 +4,10 @@ This is a static version of ACN-Data (https://ev.caltech.edu/dataset), collected
 
 The dataset contains EV charging time series data collected from various sites at Caltech, JPL, and nearby offices. Each site folder contains csv files sorted by dates when the data has been collected. More pre-processing toolkits, packages, and polished datasets will be released soon.
 
+## Update 07-05-2024
+
+Added caltech session data .json file.
+
 # Useful Tools:
 
 #### GMM for ACN-Data: https://github.com/tongxin-li/GMM-for-ACN-Data
